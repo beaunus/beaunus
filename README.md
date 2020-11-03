@@ -13,6 +13,8 @@
 - 📫 How to reach me:
   - beau@beaunus.com
   - [beaunus.com](https://beaunus.com/)
-- 😄 Pronouns: `he` / `him` / `his`
+- 😄 Pronouns:
+  - In general: `we` / `us` / `ours`
+  - Specifically: `he` / `him` / `his`
 - ⚡ Fun fact:
   - I can say the alphabet backwards! 😱
