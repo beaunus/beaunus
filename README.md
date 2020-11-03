@@ -14,7 +14,7 @@
   - beau@beaunus.com
   - [beaunus.com](https://beaunus.com/)
 - 😄 Pronouns:
-  - In general: `we` / `us` / `ours` 🌎 🌍 🌏
+  - Generally: `we` / `us` / `ours` 🌎 🌍 🌏
   - Specifically: `he` / `him` / `his` 🙋‍♂️
 - ⚡ Fun fact:
   - I can say the alphabet backwards! 😱
