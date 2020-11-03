@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**beaunus/beaunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - Leading the `data-insight` team at [basal.dev](https://basal.dev/)
+  - Teaching beginners about the wonderful world of programming at [Code Chrysalis Foundations](https://www.codechrysalis.io/foundations)
+- 🌱 I’m currently learning:
+  - 🇯🇵 Japanese language
+  - 🇰🇷 Korean language
+  - 😂 English language
+- 👯 I’m looking to collaborate on:
+  - Remote pair programming to solve problems big and small
+  - Remote musical collaboration
+- 📫 How to reach me:
+  - beau@beaunus.com
+  - beaunus.com
+- 😄 Pronouns: `he` / `him` / `his`
+- ⚡ Fun fact:
+  - I can say the alphabet backwards! 😱
