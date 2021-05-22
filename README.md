@@ -5,7 +5,6 @@
   - Teaching beginners about the wonderful world of programming at [Code Chrysalis Foundations](https://www.codechrysalis.io/foundations)
 - 🌱 I’m currently learning:
   - 🇯🇵 Japanese language
-  - 🇰🇷 Korean language
   - 😂 English language
 - 👯 I’m looking to collaborate on:
   - Remote pair programming to solve problems big and small
