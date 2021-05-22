@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Leading the _Billygoats_🐐 team at [basal.dev](https://basal.dev/)
+  - Leading the _Billygoats_ 🐐 team at [basal.dev](https://basal.dev/)
   - Teaching beginners about the wonderful world of programming at [Code Chrysalis Foundations](https://www.codechrysalis.io/foundations)
 - 🌱 I’m currently learning:
   - 🇯🇵 Japanese language
