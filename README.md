@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Leading the _Billygoats_ 🐐 team at [basal.dev](https://basal.dev/)
-  - Teaching beginners about the wonderful world of programming at [Code Chrysalis Foundations](https://www.codechrysalis.io/foundations)
+  - Leading the front-end 🐙 team at [Octopus Energy Japan](https://octopusenergy.co.jp/)
+  - Teaching about the wonderful world of programming at [Code Chrysalis Immersive Part-time](https://www.codechrysalis.io/immersive-part-time)
 - 🌱 I’m currently learning:
   - 🇯🇵 Japanese language
   - 😂 English language
@@ -17,3 +17,4 @@
   - Specifically: `he` / `him` / `his` 🙋‍♂️
 - ⚡ Fun fact:
   - I can say the alphabet backwards! 😱
+  
